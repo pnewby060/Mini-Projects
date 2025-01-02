@@ -1,7 +1,5 @@
 # Hello
 
----  
-
 The very basic starting point for learning Python or any other programming language is to print "Hello World" on the screen. 
 This is probably the first program that every programmer writes in any programming language.  
 
